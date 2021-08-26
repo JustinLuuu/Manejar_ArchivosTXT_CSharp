@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\Crear  TXT  archivos automaticos\bin\Debug\Crear  TXT  archivos automaticos.exe.config
+C:\Users\justi\source\repos\Crear  TXT  archivos automaticos\bin\Debug\Crear  TXT  archivos automaticos.exe
+C:\Users\justi\source\repos\Crear  TXT  archivos automaticos\bin\Debug\Crear  TXT  archivos automaticos.pdb
+C:\Users\justi\source\repos\Crear  TXT  archivos automaticos\obj\Debug\Crear  TXT  archivos automaticos.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Crear  TXT  archivos automaticos\obj\Debug\Crear  TXT  archivos automaticos.exe
+C:\Users\justi\source\repos\Crear  TXT  archivos automaticos\obj\Debug\Crear  TXT  archivos automaticos.pdb

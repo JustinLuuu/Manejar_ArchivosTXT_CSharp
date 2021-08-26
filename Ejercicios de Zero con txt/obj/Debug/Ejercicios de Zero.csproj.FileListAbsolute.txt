@@ -1,0 +1,13 @@
+C:\Users\justi\source\repos\Ejercicios de Zero\bin\Debug\Ejercicios de Zero.exe.config
+C:\Users\justi\source\repos\Ejercicios de Zero\bin\Debug\Ejercicios de Zero.exe
+C:\Users\justi\source\repos\Ejercicios de Zero\bin\Debug\Ejercicios de Zero.pdb
+C:\Users\justi\source\repos\Ejercicios de Zero\obj\Debug\Ejercicios de Zero.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Ejercicios de Zero\obj\Debug\Ejercicios de Zero.exe
+C:\Users\justi\source\repos\Ejercicios de Zero\obj\Debug\Ejercicios de Zero.pdb
+C:\Users\justi\source\repos\Manipulando archivos TXT\Ejercicios de Zero con txt\bin\Debug\Ejercicios de Zero.exe.config
+C:\Users\justi\source\repos\Manipulando archivos TXT\Ejercicios de Zero con txt\bin\Debug\Ejercicios de Zero.exe
+C:\Users\justi\source\repos\Manipulando archivos TXT\Ejercicios de Zero con txt\bin\Debug\Ejercicios de Zero.pdb
+C:\Users\justi\source\repos\Manipulando archivos TXT\Ejercicios de Zero con txt\obj\Debug\Ejercicios de Zero.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Manipulando archivos TXT\Ejercicios de Zero con txt\obj\Debug\Ejercicios de Zero.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Manipulando archivos TXT\Ejercicios de Zero con txt\obj\Debug\Ejercicios de Zero.exe
+C:\Users\justi\source\repos\Manipulando archivos TXT\Ejercicios de Zero con txt\obj\Debug\Ejercicios de Zero.pdb

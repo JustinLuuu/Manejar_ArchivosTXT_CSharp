@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\Lectura de un archivo txt\bin\Debug\Lectura de un archivo txt.exe.config
+C:\Users\justi\source\repos\Lectura de un archivo txt\bin\Debug\Lectura de un archivo txt.exe
+C:\Users\justi\source\repos\Lectura de un archivo txt\bin\Debug\Lectura de un archivo txt.pdb
+C:\Users\justi\source\repos\Lectura de un archivo txt\obj\Debug\Lectura de un archivo txt.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Lectura de un archivo txt\obj\Debug\Lectura de un archivo txt.exe
+C:\Users\justi\source\repos\Lectura de un archivo txt\obj\Debug\Lectura de un archivo txt.pdb

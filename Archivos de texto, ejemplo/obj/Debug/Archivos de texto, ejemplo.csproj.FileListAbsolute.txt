@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\Archivos de texto, ejemplo\bin\Debug\Archivos de texto, ejemplo.exe.config
+C:\Users\justi\source\repos\Archivos de texto, ejemplo\bin\Debug\Archivos de texto, ejemplo.exe
+C:\Users\justi\source\repos\Archivos de texto, ejemplo\bin\Debug\Archivos de texto, ejemplo.pdb
+C:\Users\justi\source\repos\Archivos de texto, ejemplo\obj\Debug\Archivos de texto, ejemplo.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Archivos de texto, ejemplo\obj\Debug\Archivos de texto, ejemplo.exe
+C:\Users\justi\source\repos\Archivos de texto, ejemplo\obj\Debug\Archivos de texto, ejemplo.pdb

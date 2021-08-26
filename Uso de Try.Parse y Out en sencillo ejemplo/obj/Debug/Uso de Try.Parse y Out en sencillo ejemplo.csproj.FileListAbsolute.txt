@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\Uso de Try.Parse y Out en sencillo ejemplo\bin\Debug\Uso de Try.Parse y Out en sencillo ejemplo.exe.config
+C:\Users\justi\source\repos\Uso de Try.Parse y Out en sencillo ejemplo\bin\Debug\Uso de Try.Parse y Out en sencillo ejemplo.exe
+C:\Users\justi\source\repos\Uso de Try.Parse y Out en sencillo ejemplo\bin\Debug\Uso de Try.Parse y Out en sencillo ejemplo.pdb
+C:\Users\justi\source\repos\Uso de Try.Parse y Out en sencillo ejemplo\obj\Debug\Uso de Try.Parse y Out en sencillo ejemplo.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Uso de Try.Parse y Out en sencillo ejemplo\obj\Debug\Uso de Try.Parse y Out en sencillo ejemplo.exe
+C:\Users\justi\source\repos\Uso de Try.Parse y Out en sencillo ejemplo\obj\Debug\Uso de Try.Parse y Out en sencillo ejemplo.pdb

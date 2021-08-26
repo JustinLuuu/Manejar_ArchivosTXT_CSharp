@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\Archivo conservando datos Existentes TXT\bin\Debug\Archivo conservando datos Existentes TXT.exe.config
+C:\Users\justi\source\repos\Archivo conservando datos Existentes TXT\bin\Debug\Archivo conservando datos Existentes TXT.exe
+C:\Users\justi\source\repos\Archivo conservando datos Existentes TXT\bin\Debug\Archivo conservando datos Existentes TXT.pdb
+C:\Users\justi\source\repos\Archivo conservando datos Existentes TXT\obj\Debug\Archivo conservando datos Existentes TXT.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Archivo conservando datos Existentes TXT\obj\Debug\Archivo conservando datos Existentes TXT.exe
+C:\Users\justi\source\repos\Archivo conservando datos Existentes TXT\obj\Debug\Archivo conservando datos Existentes TXT.pdb

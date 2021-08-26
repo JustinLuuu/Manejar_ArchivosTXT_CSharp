@@ -1,0 +1,20 @@
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\bin\Debug\Trabajando con DataGridView y txt winforms.exe.config
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\bin\Debug\Trabajando con DataGridView y txt winforms.exe
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\bin\Debug\Trabajando con DataGridView y txt winforms.pdb
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando_con_DataGridView_y_txt_winforms.Form1.resources
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando_con_DataGridView_y_txt_winforms.Properties.Resources.resources
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.exe
+C:\Users\justi\OneDrive\Escritorio\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.pdb
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\bin\Debug\Trabajando con DataGridView y txt winforms.exe.config
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\bin\Debug\Trabajando con DataGridView y txt winforms.exe
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\bin\Debug\Trabajando con DataGridView y txt winforms.pdb
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando_con_DataGridView_y_txt_winforms.Form1.resources
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando_con_DataGridView_y_txt_winforms.Properties.Resources.resources
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.exe
+C:\Users\justi\source\repos\Manipulando archivos TXT\Trabajando con DataGridView y txt winforms\Trabajando con DataGridView y txt winforms\obj\Debug\Trabajando con DataGridView y txt winforms.pdb

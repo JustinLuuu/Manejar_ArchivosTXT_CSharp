@@ -17,7 +17,7 @@ namespace Archivos_de_texto__ejemplo
 
             //Escribiendo en el archivo 
 
-            escritura.WriteLine("Bienvenido a esta mini base de datos");
+            escritura.WriteLine("Bienvenido");
             escritura.WriteLine("Que felicidad");
 
             //Cerrar el archivo     
